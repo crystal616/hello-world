@@ -1,2 +1,3 @@
 # hello-world
-just a reository
+
+Hi everyone! Nice to meet you!
